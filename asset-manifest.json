@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Haziq-Danial-webpage/static/css/main.f855e6bc.css",
-    "main.js": "/Haziq-Danial-webpage/static/js/main.056c35bb.js",
+    "main.css": "/Haziq-Danial-webpage/static/css/main.63416dfd.css",
+    "main.js": "/Haziq-Danial-webpage/static/js/main.e2236b05.js",
     "static/js/453.7c3fc7d8.chunk.js": "/Haziq-Danial-webpage/static/js/453.7c3fc7d8.chunk.js",
+    "static/media/starwars.jpg": "/Haziq-Danial-webpage/static/media/starwars.d3c77f390cbd1c16f76e.jpg",
+    "static/media/background.png": "/Haziq-Danial-webpage/static/media/background.6c0449b1a988fad3f3ae.png",
     "static/media/logo.svg": "/Haziq-Danial-webpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Haziq-Danial-webpage/index.html",
-    "main.f855e6bc.css.map": "/Haziq-Danial-webpage/static/css/main.f855e6bc.css.map",
-    "main.056c35bb.js.map": "/Haziq-Danial-webpage/static/js/main.056c35bb.js.map",
+    "main.63416dfd.css.map": "/Haziq-Danial-webpage/static/css/main.63416dfd.css.map",
+    "main.e2236b05.js.map": "/Haziq-Danial-webpage/static/js/main.e2236b05.js.map",
     "453.7c3fc7d8.chunk.js.map": "/Haziq-Danial-webpage/static/js/453.7c3fc7d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.056c35bb.js"
+    "static/css/main.63416dfd.css",
+    "static/js/main.e2236b05.js"
   ]
 }
